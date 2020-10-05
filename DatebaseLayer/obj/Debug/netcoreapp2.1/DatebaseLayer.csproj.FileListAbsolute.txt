@@ -1,0 +1,17 @@
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.csprojAssemblyReference.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.RazorAssemblyInfo.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.RazorAssemblyInfo.cs
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.AssemblyInfoInputs.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.AssemblyInfo.cs
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\bin\Debug\netcoreapp2.1\DatebaseLayer.deps.json
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\bin\Debug\netcoreapp2.1\DatebaseLayer.runtimeconfig.json
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\bin\Debug\netcoreapp2.1\DatebaseLayer.runtimeconfig.dev.json
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\bin\Debug\netcoreapp2.1\DatebaseLayer.dll
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\bin\Debug\netcoreapp2.1\DatebaseLayer.pdb
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\bin\Debug\netcoreapp2.1\EnitiyLayer.dll
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\bin\Debug\netcoreapp2.1\EnitiyLayer.pdb
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.RazorTargetAssemblyInfo.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.csproj.CopyComplete
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.dll
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\DatebaseLayer\obj\Debug\netcoreapp2.1\DatebaseLayer.pdb

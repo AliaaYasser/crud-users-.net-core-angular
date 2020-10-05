@@ -1,0 +1,14 @@
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\bin\Debug\netcoreapp2.1\EnitiyLayer.deps.json
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\bin\Debug\netcoreapp2.1\EnitiyLayer.runtimeconfig.json
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\bin\Debug\netcoreapp2.1\EnitiyLayer.runtimeconfig.dev.json
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\bin\Debug\netcoreapp2.1\EnitiyLayer.dll
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\bin\Debug\netcoreapp2.1\EnitiyLayer.pdb
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\obj\Debug\netcoreapp2.1\EnitiyLayer.csprojAssemblyReference.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\obj\Debug\netcoreapp2.1\EnitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\obj\Debug\netcoreapp2.1\EnitiyLayer.RazorAssemblyInfo.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\obj\Debug\netcoreapp2.1\EnitiyLayer.RazorAssemblyInfo.cs
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\obj\Debug\netcoreapp2.1\EnitiyLayer.AssemblyInfoInputs.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\obj\Debug\netcoreapp2.1\EnitiyLayer.AssemblyInfo.cs
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\obj\Debug\netcoreapp2.1\EnitiyLayer.RazorTargetAssemblyInfo.cache
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\obj\Debug\netcoreapp2.1\EnitiyLayer.dll
+C:\Users\Aliaa Yasser\source\repos\Anguler.netCore\EnitiyLayer\obj\Debug\netcoreapp2.1\EnitiyLayer.pdb
