@@ -3,4 +3,4 @@
 # using angular 
  # API
  # n-tier architecture
- # # Soft Delete
+ # Soft Delete
